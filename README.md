@@ -6,5 +6,5 @@
 Add class lightBox on images :  
 `<img src="mypicture.png" class="lightBox" />`
 
-You can add commentary with this way :  
+To add commentary use this way :  
 `<img src="mypicture.png" class="lightBox" rel="my commentary" />`
